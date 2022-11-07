@@ -1,0 +1,24 @@
+{
+    "name": "eloquent-js-project-exercises",
+    "version": "1.0.0",
+    "description": "",
+    "main": "JavaScript-BrainFuck.programming-language.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Poly112/Eloquent-js-Project-Exercises.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Poly112/Eloquent-js-Project-Exercises/issues"
+    },
+    "homepage": "https://github.com/Poly112/Eloquent-js-Project-Exercises#readme",
+    "dependencies": {
+        "mime": "^2.2.0",
+        "nodemon": "^2.0.20"
+    }
+}
